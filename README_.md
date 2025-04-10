@@ -24,8 +24,6 @@ Node.js
 PostgreSQL
 npm (comes with Node.js)
 
-** For those who are grading our assignment **
-Thank you for taking the time to look and assess our assignment, if you have any issues please contact us on discord!
 
 First things first, we need to understand the prerequisite software that we are using to set up the assignment. We are using Node as a framework for our website.
 ** NOTE if you do not have node downloaded here is the link to download it: https://nodejs.org/ **
